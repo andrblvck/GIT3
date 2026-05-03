@@ -1,1 +1,1 @@
-﻿NB-1 README tweak
+NB-1 README tweak
