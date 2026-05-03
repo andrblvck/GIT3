@@ -1,2 +1,1 @@
-﻿# GIT3
-Practice repository for Git exercises.
+﻿tracked root readme
